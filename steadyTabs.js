@@ -16,7 +16,7 @@ requires:
 */
 
 var steadyTabs = new Class({
-	initialize: function(tabs, panes) {
+	initialize: function(tabs, panes){
 		this.tabs = $$(tabs).addEvent('click', this.click.bind(this));
 		this.panes = $$(panes);
 		this.newItems = $$(this.tabs[0], this.panes[0]).addClass('active');
