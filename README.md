@@ -31,4 +31,4 @@ Docs
 
 ### Demo ###
 
-[SEE THE DEMO](http://jsfiddle.net/xWQUv/)
+[SEE THE DEMO](http://jsfiddle.net/e38hP/)
